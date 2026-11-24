@@ -41,7 +41,10 @@ Built with **pure HTML, CSS, and Vanilla JavaScript** in a single standalone fil
 
 ---
 
-## 🚀 Live Demo / GitHub Pages
+## 🌐 Live Demo & GitHub Pages
+
+- **Live Web App:** [https://ruhaann17.github.io/llm-pipeline-explorer/](https://ruhaann17.github.io/llm-pipeline-explorer/)
+- **Repository:** [https://github.com/ruhaann17/llm-pipeline-explorer](https://github.com/ruhaann17/llm-pipeline-explorer)
 
 To view locally:
 Simply open `index.html` in any web browser!
